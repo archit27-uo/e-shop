@@ -2,7 +2,7 @@
 
 this is a new e commerce platform
 
-##screenshot
+## screenshot
 ![Screenshot (483)](https://github.com/user-attachments/assets/4080395e-7ec4-4692-b749-a6c358f21eb1)
 ![Screenshot (486)](https://github.com/user-attachments/assets/cf251044-1df3-4c62-9227-990a23d1e37f)
 
