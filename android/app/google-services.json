@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618621162375",
+    "project_id": "e-commerce-bc200",
+    "storage_bucket": "e-commerce-bc200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618621162375:android:74359e6cef45451365b922",
+        "android_client_info": {
+          "package_name": "com.archit.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wWxCLk6zq83gg59WYc_oqeuPVWXrIlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
